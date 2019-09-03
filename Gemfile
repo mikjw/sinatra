@@ -1,5 +1,4 @@
 # frozen_string_literal: true
-require "capybara"
 
 source "https://rubygems.org"
 gem "capybara"
